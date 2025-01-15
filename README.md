@@ -12,3 +12,11 @@ Neste repositório, dividi os tópicos do roadmap em etapas com recursos, projet
 
 - **Documentação:** Links para documentação oficial das bibliotecas e frameworks mencionados.
 - **Artigos e Blogs:** Curadoria de leituras recomendadas.
+
+## 🔧 Ferramentas Utilizadas
+
+- **Linguagem:** Python  
+- **Bibliotecas:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch  
+- **Ferramentas de MLOps:** Docker, Kubernetes, CI/CD  
+- **Ambientes:** Jupyter Notebook, VS Code  
+
