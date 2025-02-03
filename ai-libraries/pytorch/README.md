@@ -12,12 +12,11 @@ Esse pasta contém meus estudos sobre PyTorch, abordando desde os conceitos fund
 - Aprofundar-se em técnicas avançadas de treinamento e deployment
 
 ## 🚀 Tecnologias Utilizadas
-- **Python** 🐍
-- **PyTorch** 🔥
-- **NumPy** 📊
-- **Matplotlib & Seaborn** 📈
-- **TorchVision & TorchText** 🖼️📖
-- **Jupyter Notebook** 📓
+- **Python** 
+- **PyTorch** 
+- **NumPy** 
+- **Matplotlib & Seaborn** 
+- **TorchVision & TorchText** 
 
 ## 📖 Conteúdo
 Os tópicos abordados incluem:
