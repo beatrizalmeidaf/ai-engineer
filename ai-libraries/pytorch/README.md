@@ -1,7 +1,7 @@
 # PyTorch 
 
-## 📌 Sobre este Repositório
-Esse repositório contém meus estudos sobre PyTorch, abordando desde os conceitos fundamentais até técnicas avançadas de Deep Learning. O material de estudo é baseado no [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/), que oferece uma abordagem prática e estruturada para dominar PyTorch.
+## 📌 Sobre essa Pasta
+Esse pasta contém meus estudos sobre PyTorch, abordando desde os conceitos fundamentais até técnicas avançadas de Deep Learning. O material de estudo é baseado no [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/), que oferece uma abordagem prática e estruturada para dominar PyTorch.
 
 ## 🎯 Objetivos
 - Compreender os fundamentos do PyTorch

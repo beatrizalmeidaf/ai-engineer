@@ -6,7 +6,7 @@ Esse repositório tem como objetivo documentar minha jornada de aprendizado segu
 
 O roadmap de AI Engineer é uma estrutura bem organizada que guia iniciantes e profissionais em direção a um entendimento completo das ferramentas, técnicas e conceitos necessários para trabalhar na área de Inteligência Artificial.
 
-Neste repositório, dividi os tópicos do roadmap em etapas com recursos, projetos práticos e anotações relevantes.
+Nesse repositório, dividi os tópicos do roadmap em etapas com recursos, projetos práticos e anotações relevantes.
 
 ## 🌎 Recursos Utilizados
 
