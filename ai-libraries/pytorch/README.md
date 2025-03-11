@@ -1,7 +1,7 @@
 # PyTorch 
 
 ## 📌 Sobre essa Pasta
-Esse pasta contém meus estudos sobre PyTorch, abordando desde os conceitos fundamentais até técnicas avançadas de Deep Learning. O material de estudo é baseado no [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/), que oferece uma abordagem prática e estruturada para dominar PyTorch.
+Essa pasta contém meus estudos sobre PyTorch, abordando desde os conceitos fundamentais até técnicas avançadas de Deep Learning. O material de estudo é baseado no [Learn PyTorch for Deep Learning](https://www.learnpytorch.io/), que oferece uma abordagem prática e estruturada para dominar PyTorch.
 
 ## 🎯 Objetivos
 - Compreender os fundamentos do PyTorch
@@ -9,7 +9,7 @@ Esse pasta contém meus estudos sobre PyTorch, abordando desde os conceitos fund
 - Construir e treinar redes neurais profundas
 - Aplicar técnicas de otimização e regularização
 - Implementar modelos de Computer Vision e NLP
-- Aprofundar-se em técnicas avançadas de treinamento e deployment
+- Aprofundar em técnicas avançadas de treinamento e deployment
 
 ## 🚀 Tecnologias Utilizadas
 - **Python** 
