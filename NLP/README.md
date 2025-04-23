@@ -2,10 +2,6 @@
 
 Esse repositório reúne estudos e experimentos práticos baseados no livro **Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition**, de Jurafsky & Martin. O foco é aprofundar o entendimento de modelos de linguagem e suas aplicações, explorando desde fundamentos teóricos até implementações práticas.
 
-<p align="center">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/41VZ+6VQUfL._SX379_BO1,204,203,200_.jpg" alt="Capa do livro Speech and Language Processing" width="300"/>
-</p>
-
 ---
 
 ## Objetivos
@@ -14,10 +10,6 @@ Esse repositório reúne estudos e experimentos práticos baseados no livro **Sp
 - Explorar o funcionamento e uso de modelos de linguagem em diferentes tarefas  
 - Praticar com implementações reais de algoritmos e técnicas discutidas no livro  
 - Consolidar uma base teórica forte para projetos de NLP e IA aplicada
-
----
-
-Perfeito! Aqui está uma versão aprimorada da seção **Conteúdos** do seu README, agora refletindo os tópicos do livro *Speech and Language Processing*, com os capítulos organizados e descritos de forma resumida em português:
 
 ---
 

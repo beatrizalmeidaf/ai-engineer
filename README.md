@@ -1,22 +1,31 @@
-# Engenharia de Inteligência Artificial 🤖
+# Engenharia de Inteligência Artificial e Deep Learning
 
-Esse repositório tem como objetivo documentar minha jornada de aprendizado seguindo o roadmap de AI Engineer disponibilizado por [roadmap.sh](https://roadmap.sh/ai-engineer).
+Esse repositório documenta estudos contínuos e aprofundados em **Deep Learning** e **Engenharia de Inteligência Artificial**. 
 
-## ☁️ Sobre o Roadmap
+> ⚠️ **Nota:** Embora o conteúdo tenha sido inicialmente inspirado no [roadmap.sh/ai-engineer](https://roadmap.sh/ai-engineer), atualmente o foco está em estudos independentes e práticos.
+---
 
-O roadmap de AI Engineer é uma estrutura bem organizada que guia iniciantes e profissionais em direção a um entendimento completo das ferramentas, técnicas e conceitos necessários para trabalhar na área de Inteligência Artificial.
+## 🗂️ Organização do Repositório
 
-Nesse repositório, dividi os tópicos do roadmap em etapas com recursos, projetos práticos e anotações relevantes.
+- **`cnn/`**: Estudos e implementações de redes convolucionais.
+- **`llm/`**: Explorações de Large Language Models e aplicações práticas.
+- **`nlp/`**: Projetos e anotações sobre Processamento de Linguagem Natural.
+- **`libs/`**: Experimentos com bibliotecas fundamentais de Deep Learning (PyTorch, TensorFlow, etc).
+- Outras pastas serão adicionadas conforme os estudos avançam.
 
-## 🌎 Recursos Utilizados
+---
 
-- **Documentação:** Links para documentação oficial das bibliotecas e frameworks mencionados.
-- **Artigos e Blogs:** Curadoria de leituras recomendadas.
+## 🛠️ Ferramentas e Tecnologias
 
-## 🔧 Ferramentas Utilizadas
-
-- **Linguagem:** Python  
-- **Bibliotecas:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch  
-- **Ferramentas de MLOps:** Docker, Kubernetes, CI/CD  
+- **Linguagem Principal:** Python  
+- **Bibliotecas:** PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn, Matplotlib  
 - **Ambientes:** Jupyter Notebook, VS Code  
+- **Ferramentas de MLOps:** Docker, Kubernetes, CI/CD pipelines
 
+---
+
+## Recursos de Estudo
+
+- Documentações oficiais  
+- Artigos científicos e blogs técnicos  
+- Livros da O'Reilly e outros autores renomados  
